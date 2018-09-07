@@ -6,8 +6,18 @@ table
 {
   margin-left: auto;
   margin-right: auto;
+  margin-top: 1em;
 }
 
 p {
-  font-family: "Arial Black", Gadget, sans-serif
+  font-family: "Arial Black", Gadget, sans-serif;
+  margin-bottom: 1em;
+}
+
+#demo {
+  margin: 0px;
+}
+
+.demo {
+  margin: 0px;
 }
